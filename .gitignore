@@ -87,3 +87,6 @@ nb-configuration.xml
 # PHP CS Fixer cache
 *.php_cs.cache
 
+# SonarQube artifacts
+.scannerwork/
+
